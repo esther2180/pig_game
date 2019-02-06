@@ -9,6 +9,6 @@ GAME RULES:
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
-LINK: 
+LINK: https://esther2180.github.io/pig_game/
 
 <img width="1197" alt="screen shot 2019-02-05 at 9 00 01 pm" src="https://user-images.githubusercontent.com/35313629/52321339-0a34c680-2989-11e9-8799-10250b8c71cb.png">
